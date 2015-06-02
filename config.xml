@@ -1,0 +1,9 @@
+<widget id="com.miwenjie.babylon" version="0.0.1">
+    <name>Babylon - Cordova</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="orangemiwj@gmail.com" href="">Orange Mi</author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
